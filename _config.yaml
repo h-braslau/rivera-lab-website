@@ -1,19 +1,17 @@
 # site properties and page defaults
-title: h-braslau
+title: Hannah Braslau final project
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: Looking at intraspecific macroinvertebrate diveristy in streams across the US
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@h-braslau.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: hlb5480@psu.edu
+  orcid: 0009-0003-3905-4364
   github: h-braslau
-  twitter: h-braslau
-  youtube: h-braslau
+  
 
 ### jekyll settings
 
