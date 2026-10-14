@@ -8,10 +8,6 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@example.com
-
-# site social media and other links
-links:
   email: hlb5480@psu.edu
   orcid: 0009-0003-3905-4364
   github: h-braslau
