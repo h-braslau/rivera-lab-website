@@ -1,9 +1,9 @@
 ---
 ---
 
-# h-braslau's Website
+# Rivera Lab
 
-Macroinvertebrate intraspecific diversity in streams across the United States
+We study how reproducible workflows speed up ecological research.
 
 {% include section.html %}
 
