@@ -1,10 +1,14 @@
 # site properties and page defaults
-title: Hannah Braslau 
-subtitle: Final Project - WFS597: reproducible data science
-description: Looking at intraspecific macroinvertebrate diveristy in streams across the US
+title: Rivera Lab
+subtitle: at Example University
+description: The Rivera Lab studies how reproducible workflows speed up ecological research.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
+
+# site social media and other links
+links:
+  email: contact@example.com
 
 # site social media and other links
 links:
