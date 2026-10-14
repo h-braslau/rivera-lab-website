@@ -3,7 +3,7 @@
 
 # h-braslau's Website
 
-An engaging 1-3 sentence description of your lab.
+Macroinvertebrate intraspecific diversity in streams across the United States
 
 {% include section.html %}
 
